@@ -115,7 +115,8 @@ exit()
 
 ```
 
-References:
+#### References:
+
 https://realpython.com/chromadb-vector-database/#get-started-with-chromadb-an-open-source-vector-database
 
 ![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_text_documents/assets/14288989/e5319eb2-78d4-436a-9581-0a3ac5951765)

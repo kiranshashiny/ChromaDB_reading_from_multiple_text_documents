@@ -39,8 +39,16 @@ exit()
 
 ![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_sources/assets/14288989/bf0b93bf-adb2-4c74-9510-5fa71b1935e7)
 
+1. Snapshot of the White House publication regarding confirmation of Judge Jackson's appointment to the US Supreme Court, wherein remarks by the President is queried.
+   
+![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_text_documents/assets/14288989/45db8be6-128c-405f-ab45-d487cf016c56)
+
+
+3. Snapshot of the text file containing YinYangs
 
 ![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_sources/assets/14288989/3d66f4af-5639-48ae-94c9-6826ad84c702)
+
+
 
 ```
 

@@ -1,16 +1,17 @@
 # ChromaDB_reading_from_multiple_sources
-Collate data from different sources and query it.
+This demo's Collating data from different sources  (.txt/text files), storing it into Chroma DB and later querying questions from both the files in the same python script.
 
+###  If you are using PDF input files, then adopt the same code below, but use the PDF Uploader library as shown in this link -> https://github.com/tonykipkemboi/ollama_pdf_rag/blob/main/local_ollama_rag.ipynb
+
+Back to this code:
 
 I have here multiple files/documents.txt and is read into the Chroma DB and the first query is from first file and the second query is from the second file.
 
-Both the documents are loaded into the DB at the same time.
+Both the documents are loaded into the DB in the same code.
 
-First file is State of the Union.txt, where references to what the President says about the US Supreme court nominee Ketanji Brown, and the
-Second file is State of the Onion.txt, where references to yinyangs are made.
+First file is State of the Union.txt, where references to what the President says about the US Supreme court nominee Ketanji Brown, and the second input file is State of the Onion.txt, where references to yinyangs are made.
 
-There are two queries, one query is from the first file, and second from second file.
-
+There are two queries in the same Python script, one query is from the first input file, and second from second input file.
 
 ```
 

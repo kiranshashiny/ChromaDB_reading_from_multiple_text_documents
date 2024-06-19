@@ -12,7 +12,9 @@ Second file is State of the Onion.txt, where references to yinyangs are made.
 There are two queries, one query is from the first file, and second from second file.
 
 
-```# query it
+```
+
+# query first document
 query = "What did the president say about Ketanji Brown Jackson"
 docs = db.similarity_search(query)
 
@@ -21,8 +23,8 @@ print ("Printing the results about Ketanji(first document) :");
 print(docs[0].page_content)
 print ("");
 
-print ("done");
-# query it
+
+# query second document
 query = "What does the yinyangs represent ?"
 docs = db.similarity_search(query)
 

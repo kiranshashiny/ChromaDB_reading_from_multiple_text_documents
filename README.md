@@ -2,8 +2,6 @@
 Collate data from different sources and query it.
 
 
-
-
 I have here multiple files/documents.txt and is read into the Chroma DB and the first query is from first file and the second query is from the second file.
 
 Both the documents are loaded into the DB at the same time.
@@ -13,6 +11,29 @@ Second file is State of the Onion.txt, where references to yinyangs are made.
 
 There are two queries, one query is from the first file, and second from second file.
 
+
+```# query it
+query = "What did the president say about Ketanji Brown Jackson"
+docs = db.similarity_search(query)
+
+# print results
+print ("Printing the results about Ketanji(first document) :");
+print(docs[0].page_content)
+print ("");
+
+print ("done");
+# query it
+query = "What does the yinyangs represent ?"
+docs = db.similarity_search(query)
+
+# print results
+print ("Printing the results about yinyangs : ");
+print(docs[0].page_content)
+print ("");
+exit()
+
+
+```
 
 
 

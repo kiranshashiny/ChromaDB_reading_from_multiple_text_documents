@@ -40,6 +40,7 @@ exit()
 ![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_sources/assets/14288989/bf0b93bf-adb2-4c74-9510-5fa71b1935e7)
 
 
+![image](https://github.com/kiranshashiny/ChromaDB_reading_from_multiple_sources/assets/14288989/3d66f4af-5639-48ae-94c9-6826ad84c702)
 
 ```
 
